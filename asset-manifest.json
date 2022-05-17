@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/tc.webfrontend/static/css/main.b9622925.chunk.css",
+    "main.js": "/tc.webfrontend/static/js/main.56f41754.chunk.js",
+    "main.js.map": "/tc.webfrontend/static/js/main.56f41754.chunk.js.map",
+    "runtime-main.js": "/tc.webfrontend/static/js/runtime-main.92c6da20.js",
+    "runtime-main.js.map": "/tc.webfrontend/static/js/runtime-main.92c6da20.js.map",
+    "static/css/2.83c3076b.chunk.css": "/tc.webfrontend/static/css/2.83c3076b.chunk.css",
+    "static/js/2.b9fc3a17.chunk.js": "/tc.webfrontend/static/js/2.b9fc3a17.chunk.js",
+    "static/js/2.b9fc3a17.chunk.js.map": "/tc.webfrontend/static/js/2.b9fc3a17.chunk.js.map",
+    "index.html": "/tc.webfrontend/index.html",
+    "static/css/2.83c3076b.chunk.css.map": "/tc.webfrontend/static/css/2.83c3076b.chunk.css.map",
+    "static/css/main.b9622925.chunk.css.map": "/tc.webfrontend/static/css/main.b9622925.chunk.css.map",
+    "static/js/2.b9fc3a17.chunk.js.LICENSE.txt": "/tc.webfrontend/static/js/2.b9fc3a17.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/tc.webfrontend/static/media/la-solid-900.a8130346.svg",
+    "static/media/bagIcon.585bd5b6.svg": "/tc.webfrontend/static/media/bagIcon.585bd5b6.svg",
+    "static/media/basketIcon.5db6921e.svg": "/tc.webfrontend/static/media/basketIcon.5db6921e.svg",
+    "static/media/basketIcon.c4cf6004.svg": "/tc.webfrontend/static/media/basketIcon.c4cf6004.svg",
+    "static/media/calendarIcon.32a68d66.svg": "/tc.webfrontend/static/media/calendarIcon.32a68d66.svg",
+    "static/media/cloudIcon.16c9d817.svg": "/tc.webfrontend/static/media/cloudIcon.16c9d817.svg",
+    "static/media/envelopeIcon.9a98f28a.svg": "/tc.webfrontend/static/media/envelopeIcon.9a98f28a.svg",
+    "static/media/errorImage.f2dac3af.svg": "/tc.webfrontend/static/media/errorImage.f2dac3af.svg",
+    "static/media/folderIcon.0c31484f.svg": "/tc.webfrontend/static/media/folderIcon.0c31484f.svg",
+    "static/media/funnelIcon.6c3b50d6.svg": "/tc.webfrontend/static/media/funnelIcon.6c3b50d6.svg",
+    "static/media/joystickIcon.38ec22f5.svg": "/tc.webfrontend/static/media/joystickIcon.38ec22f5.svg",
+    "static/media/loginImage.d7078415.svg": "/tc.webfrontend/static/media/loginImage.d7078415.svg",
+    "static/media/logoutOutlined.b7ca2242.svg": "/tc.webfrontend/static/media/logoutOutlined.b7ca2242.svg",
+    "static/media/mariaImage.e5327aa4.jpg": "/tc.webfrontend/static/media/mariaImage.e5327aa4.jpg",
+    "static/media/notificationImage.5f55e802.jpg": "/tc.webfrontend/static/media/notificationImage.5f55e802.jpg",
+    "static/media/optionsIcon.fd35aa2b.svg": "/tc.webfrontend/static/media/optionsIcon.fd35aa2b.svg",
+    "static/media/printerIcon.7c676479.svg": "/tc.webfrontend/static/media/printerIcon.7c676479.svg",
+    "static/media/registerImage.c1769a78.svg": "/tc.webfrontend/static/media/registerImage.c1769a78.svg",
+    "static/media/searchIcon.ea6410cb.svg": "/tc.webfrontend/static/media/searchIcon.ea6410cb.svg",
+    "static/media/user.13df436f.svg": "/tc.webfrontend/static/media/user.13df436f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c6da20.js",
+    "static/css/2.83c3076b.chunk.css",
+    "static/js/2.b9fc3a17.chunk.js",
+    "static/css/main.b9622925.chunk.css",
+    "static/js/main.56f41754.chunk.js"
+  ]
+}
